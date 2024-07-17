@@ -71,7 +71,7 @@
                 <!-- business information here -->
                 <div class="row invoice-info">
 
-                    <div class="col-md-6 invoice-col width-50 ">
+                    <div class="col-md-6 invoice-col width-40 ">
 
                         @if (!empty($receipt_details->letter_head))
                             <img style="max-height: 180px; width: 80%;" src="{{ $receipt_details->letter_head }}"
@@ -202,17 +202,16 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 invoice-col width-50">
+                    <div class="col-md-6 invoice-col width-60" style="padding-left: 10%">
                         <!-- Invoice No -->
                         <div
                             style="font-size: 24px; font-weight: bold; text-transform: uppercase; color: #063970 !important;">
                             @if (!empty($receipt_details->invoice_no_prefix))
-                                <p class="pull-left" style="color: #063970 !important;">{!! $receipt_details->invoice_no_prefix !!}
-                                    {{ $receipt_details->invoice_no }}</p><br />
+                                <p class="pull-left" style="color: #063970 !important;">{!! $receipt_details->invoice_no_prefix !!} {{ $receipt_details->invoice_no }}</p><br />
                             @endif
 
                             <p class="pull-left">
-
+                                
                             </p><br />
                         </div>
 
@@ -643,7 +642,7 @@
                 </div>
 
                 <div class="row invoice-info " style="page-break-inside: avoid !important">
-                    <!-- invoice bottom left -->
+					<!-- invoice bottom left -->
                     <div class="col-md-6 invoice-col width-40" style="margin-left: 30px;">
                         <table class="table table-slim">
                             @if (!empty($receipt_details->payments))
@@ -660,13 +659,10 @@
                             style="width: 100%; padding-bottom: 60px; border-bottom: 2px dashed black">{{ __('lang_v1.authorized_signatory') }}</b>
 
                         <table>
-                            <tr>&nbsp;</tr>
-                            <tr>&nbsp;</tr>
+							<tr>&nbsp;</tr>
+							<tr>&nbsp;</tr>
                             <tr>
-                                <td>
-                                    <h4 style="color: #063970 !important; font-weight: bold; font-size: 20px;">Thank
-                                        you for your Business</h4>
-                                </td>
+                                <td><h4 style="color: #063970 !important; font-weight: bold; font-size: 20px;">Thank you for your Business</h4></td>
                             </tr>
                         </table>
                     </div>
@@ -898,41 +894,38 @@
                         </div>
                     @endif
                 </div>
-                <!-- footer -->
-                {{-- <div class="row invoice-info"
-                    style="border-top: 1px solid black; margin: 20px 10px 10px; padding-top: 20px; page-break-inside: avoid !important ">
-                    <div class="col-md-6 invoice-col">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <td>
-                                        <p style="font-size: 16px; color: #063970 !important; font-weight: bold;">
-                                            Questions?</p>
-                                    </td>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <span>Email us:</span>
-                                    </td>
-                                    <td style="text-align: right;">
-                                        <span>info@plenser.com</span>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <span>Call us:</span>
-                                    </td>
-                                    <td style="text-align: right;">
-                                        <span>+254 727 643 555</span></br>
-                                        <span>+254 700 128 141</span>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <div class="col-md-4 invoice-col">
+				<!-- footer -->
+				<div class="row invoice-info" style="border-top: 1px solid black; margin: 20px 10px 10px; padding-top: 20px; page-break-inside: avoid !important ">
+					{{-- <div class="col-md-4 invoice-col">
+						<table>
+							<thead>
+								<tr>
+									<td>
+										<p style="font-size: 16px; color: #063970 !important; font-weight: bold;">Questions?</p>
+									</td>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										<span>Email us:</span>
+									</td>
+									<td style="text-align: right;">
+										<span >spares@plenser.com</span>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<span>Call us:</span>
+									</td>
+									<td style="text-align: right;">
+										<span >+254790641866</span>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div> --}}
+					<div class="col-md-4 invoice-col">
 						<table>
 							<thead>
 								<tr>
@@ -968,45 +961,39 @@
 								</tr>
 							</tbody>
 						</table>
-					</div> --}}
-                    {{-- <div class="col-md-6 invoice-col">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <td  style="font-size: 16px; color: #063970 !important; font-weight: bold;">
-                                        Terms
-                                            & Conditions/Note
-                                    </td>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <td>
-                                    <tr>
-                                        Cheques are subject to 3 DAYS VALIDATION period upon deposit to facilitate
-                                            goods dispatch
-                                    </tr>
-                                    <tr>
-                                        Quotations VALID for 10 DAYS ONLY , subject to stock availability 
-                                    </tr>
-                                    <tr>
-                                        Goods once sold are NOT returnable
-                                    </tr>
-                                </td>
-                            </tbody>
-                        </table>
-                    </div>
-                </div> --}}
-                <div class="row">
-                    <table>
-                        <tbody>
-                            <tr>
-                                <td>
-                                    <img width="740px;" src="/img/brands.jpg" alt="brands">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+					</div>
+					<div class="col-lg invoice-col" style="padding-left: 20%;">
+						<table>
+							<thead>
+								<tr>
+									<td>
+										<p style="font-size: 16px; color: #063970 !important; font-weight: bold;">Terms & Conditions/Note</p>
+									</td>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										<p>- Cheques are subject to 3 DAYS VALIDATION period upon deposit to facilitate goods dispatch</br>
+                                            - Quotations VALID for 10 DAYS ONLY , subject to stock availability</br>
+                                            - Goods once sold are NOT returnable</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="row">
+					<table>
+						<tbody>
+							<tr>
+								<td>
+									<img width="740px;" src="/img/brands.jpg" alt="brands">
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
             </td>
         </tr>
     </tbody>
