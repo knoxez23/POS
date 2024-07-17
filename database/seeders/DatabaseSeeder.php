@@ -16,6 +16,8 @@ class DatabaseSeeder extends Seeder
         $this->call([BarcodesTableSeeder::class,
             PermissionsTableSeeder::class,
             CurrenciesTableSeeder::class,
+            DummyBusinessSeeder::class,
+            OldDummyBusinessSeeder::class
         ]);
     }
 }
