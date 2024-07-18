@@ -1,4 +1,10 @@
-[2024-07-18 00:00:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 14:46:37] local.INFO: User ID: 1  
+[2024-07-18 14:46:37] local.INFO: User Permissions ["sell.view"]  
+[2024-07-18 14:46:37] local.INFO: Business ID: 1  
+[2024-07-18 14:46:37] local.INFO: User ID: 1  
+[2024-07-18 14:46:37] local.INFO: User Permissions ["sell.view"]  
+[2024-07-18 14:46:37] local.INFO: Business ID: 1  
+[2024-07-18 17:17:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -14,7 +20,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:01:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:18:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -30,7 +36,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:02:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:19:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -46,7 +52,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:03:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:20:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -62,7 +68,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:04:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:21:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -78,7 +84,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:05:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:22:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -94,7 +100,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:06:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:23:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -110,7 +116,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:07:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:24:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -126,7 +132,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:08:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:25:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -142,7 +148,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:09:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:26:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -158,7 +164,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:10:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:27:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -174,7 +180,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:11:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:28:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -190,7 +196,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:12:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:29:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -206,7 +212,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:13:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:30:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -222,7 +228,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:14:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:31:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -238,7 +244,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:15:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:32:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -254,7 +260,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:16:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:33:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -270,7 +276,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:17:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:34:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -286,7 +292,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:18:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:35:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -302,7 +308,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:19:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:36:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -318,7 +324,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:20:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:37:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -334,7 +340,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:21:25] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:38:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -350,7 +356,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:22:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:39:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -366,7 +372,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:23:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:40:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -382,7 +388,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:24:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:41:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -398,7 +404,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:25:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:42:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -414,7 +420,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:26:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:43:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -430,7 +436,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:27:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:44:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -446,7 +452,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:28:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:45:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -462,7 +468,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:29:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:46:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -478,7 +484,7 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:30:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:47:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()
@@ -494,7 +500,833 @@ Stack trace:
 [stacktrace]
 #0 {main}
 "} 
-[2024-07-18 00:31:24] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+[2024-07-18 17:48:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:49:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:50:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:51:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:52:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:53:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:54:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:55:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:56:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:57:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:58:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 17:59:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:00:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:01:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:01:50] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:02:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:02:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:03:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:03:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:03:59] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:04:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:04:03] local.ERROR: The use statement with non-compound name 'Auth' has no effect {"exception":"[object] (ErrorException(code: 0): The use statement with non-compound name 'Auth' has no effect at /home/lexx/Desktop/POS/routes/web.php:3)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(270): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->Illuminate\\Foundation\\Bootstrap\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php(35): require('...')
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(503): Illuminate\\Routing\\RouteFileRegistrar->register()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/Router.php(457): Illuminate\\Routing\\Router->loadRoutes()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php(192): Illuminate\\Routing\\Router->group()
+#6 /home/lexx/Desktop/POS/app/Providers/RouteServiceProvider.php(37): Illuminate\\Routing\\RouteRegistrar->group()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): App\\Providers\\RouteServiceProvider->App\\Providers\\{closure}()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(120): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php(45): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->loadRoutes()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider->Illuminate\\Foundation\\Support\\Providers\\{closure}()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(81): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php(119): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(932): Illuminate\\Support\\ServiceProvider->callBootedCallbacks()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(910): Illuminate\\Foundation\\Application->bootProvider()
+#22 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(909): array_walk()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(242): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(383): Illuminate\\Foundation\\Application->bootstrapWith()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(153): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#28 Command line code(1): Illuminate\\Foundation\\Console\\Kernel->handle()
+#29 {main}
+"} 
+[2024-07-18 18:05:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:05:15] local.ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'repair_settings' in 'field list' (SQL: insert into `business` (`accounting_method`, `common_settings`, `created_at`, `currency_id`, `currency_symbol_placement`, `date_format`, `default_profit_percent`, `default_sales_discount`, `default_sales_tax`, `default_unit`, `enable_brand`, `enable_category`, `enable_editing_product_from_purchase`, `enable_inline_tax`, `enable_lot_number`, `enable_position`, `enable_price_tax`, `enable_product_expiry`, `enable_purchase_status`, `enable_racks`, `enable_row`, `enable_sub_category`, `enable_tooltip`, `enabled_modules`, `expiry_type`, `fy_start_month`, `id`, `item_addition_method`, `keyboard_shortcuts`, `logo`, `name`, `on_product_expiry`, `owner_id`, `p_exchange_rate`, `pos_settings`, `purchase_currency_id`, `purchase_in_diff_currency`, `ref_no_prefixes`, `repair_settings`, `sales_cmsn_agnt`, `sell_price_tax`, `sku_prefix`, `start_date`, `stock_expiry_alert_days`, `stop_selling_before`, `tax_label_1`, `tax_label_2`, `tax_number_1`, `tax_number_2`, `time_format`, `time_zone`, `transaction_edit_days`, `updated_at`) values (fifo, ?, 2018-01-04 02:15:19, 2, before, m/d/Y, 25.00, 10.00, ?, ?, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, ["purchases","add_sale","pos_sale","stock_transfers","stock_adjustment","expenses","account"], add_expiry, 1, 1, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Awesome Shop, keep_selling, 1, 1.000, ?, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, ?, ?, includes, AS, 2018-01-01, 30, 0, GSTIN, ?, 3412569900, ?, 24, America/Phoenix, 30, 2018-01-04 02:17:08), (fifo, ?, 2018-04-10 08:12:40, 2, before, m/d/Y, 25.00, ?, ?, 4, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, ["purchases","add_sale","pos_sale","stock_transfers","stock_adjustment","expenses","account"], add_manufacturing, 1, 2, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Awesome Pharmacy, stop_selling, 4, 1.000, ?, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, ?, ?, includes, AP, 2018-04-10, 30, 0, VAT, ?, 3412569900, ?, 24, America/Chicago, 30, 2018-04-10 10:21:38), (fifo, {"enable_product_warranty":"1","default_datatable_page_entries":"25"}, 2018-04-10 10:46:15, 2, before, m/d/Y, 25.00, ?, ?, 5, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, ["purchases","add_sale","pos_sale","stock_transfers","stock_adjustment","expenses","account","subscription"], add_expiry, 1, 3, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Ultimate Electronics, keep_selling, 5, 1.000, ?, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, ?, ?, includes, AE, 2018-04-10, 30, 0, GST, ?, 12548555003, ?, 24, America/Chicago, 30, 2018-04-10 11:53:35), (fifo, ?, 2018-04-10 12:20:42, 124, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, ["purchases","add_sale","pos_sale","expenses","account","service_staff"], add_expiry, 1, 4, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Awesome Services, keep_selling, 6, 1.000, ?, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, {"repair_tc_condition":"<p><strong>30- Day Service Warranty :<\/strong> If your device encounters the same issue within 30 days of the repair, we will fix the issue at our own cost with no further question asked. You have your peace of mind.&nbsp;<\/p>\r\n<p><strong>Service Disclaimers :<\/strong> Please make sure that you collect your item within two months of servic-ing, Otherwise, we will not be liable if your item gets lost or damaged.&nbsp;<\/p>\r\n<p><strong>Terms &amp;Conditions:<\/strong> Please also be aware that we can only service your gadget at your own risk. Even though we do our best in \"Awesome Services\" to make things better. However, in the worst-case scenario, your gadget may be damaged during repairs. We will not be liable if such things happen. Visit our website to know more our Policy.<\/p>","job_sheet_prefix":"JS","problem_reported_by_customer":"No backup, Battery life mediocre, Slow boot and application launch, Too glossy screen, Touchpad requires improvement, Keyboard requires improvement, RAM needs to be expanded, Lacks SD card slot","product_condition":"No physical damage, Screen fine, Screen scratches, body broken, Wet in water, colourful display, Great battery life, Excellent audio quality, Lacks SD card slot","product_configuration":"2 Gb RAM, 2GB ROM, Cpu,  Core i3 Processor, Core i5 Processor, Core i7 Processor, 16GB RAM, 4 GB RAM, 1TB HDD, 520 SSD, USB Type-C port, USB Type-A prot, 1080p IPS Display","default_status":"3"}, ?, includes, AS, 2018-03-10, 30, 0, GST, ?, 3412569900, ?, 24, America/Chicago, 30, 2018-04-10 12:23:40), (fifo, ?, 2018-07-13 16:42:11, 2, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, ["purchases","add_sale","pos_sale","stock_transfers","stock_adjustment","expenses","tables","modifiers","service_staff","kitchen","types_of_service","booking"], add_expiry, 1, 5, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Awesome Restaurant, keep_selling, 7, 1.000, {"disable_pay_checkout":0,"disable_draft":0,"disable_express_checkout":0,"hide_product_suggestion":0,"hide_recent_trans":0,"disable_discount":0,"disable_order_tax":0}, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, ?, ?, includes, AR, 2018-07-12, 30, 0, IGST, SGST, 4578220005, 4593220009, 24, America/Chicago, 30, 2018-07-13 07:38:24), (fifo, ?, 2019-08-18 18:41:28, 124, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, ["purchases","add_sale","pos_sale","stock_transfers","stock_adjustment","expenses"], add_expiry, 1, 6, 1, {"pos":{"express_checkout":"shift+e","pay_n_ckeckout":"shift+p","draft":"shift+d","cancel":"shift+c","edit_discount":"shift+i","edit_order_tax":"shift+t","add_payment_row":"shift+r","finalize_payment":"shift+f","recent_product_quantity":"f2","add_new_product":"f4"}}, ?, Manufacturers Demo, keep_selling, 12, 1.000, {"disable_pay_checkout":0,"disable_draft":0,"disable_express_checkout":0,"hide_product_suggestion":0,"hide_recent_trans":0,"disable_discount":0,"disable_order_tax":0,"is_pos_subtotal_editable":0}, ?, 0, {"purchase":"PO","stock_transfer":"ST","stock_adjustment":"SA","sell_return":"CN","expense":"EP","contacts":"CO","purchase_payment":"PP","sell_payment":"SP","business_location":"BL"}, ?, ?, includes, ?, 2019-08-18, 30, 0, ?, ?, ?, ?, 24, Asia/Kolkata, 30, 2019-08-18 18:43:22)) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S22): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'repair_settings' in 'field list' (SQL: insert into `business` (`accounting_method`, `common_settings`, `created_at`, `currency_id`, `currency_symbol_placement`, `date_format`, `default_profit_percent`, `default_sales_discount`, `default_sales_tax`, `default_unit`, `enable_brand`, `enable_category`, `enable_editing_product_from_purchase`, `enable_inline_tax`, `enable_lot_number`, `enable_position`, `enable_price_tax`, `enable_product_expiry`, `enable_purchase_status`, `enable_racks`, `enable_row`, `enable_sub_category`, `enable_tooltip`, `enabled_modules`, `expiry_type`, `fy_start_month`, `id`, `item_addition_method`, `keyboard_shortcuts`, `logo`, `name`, `on_product_expiry`, `owner_id`, `p_exchange_rate`, `pos_settings`, `purchase_currency_id`, `purchase_in_diff_currency`, `ref_no_prefixes`, `repair_settings`, `sales_cmsn_agnt`, `sell_price_tax`, `sku_prefix`, `start_date`, `stock_expiry_alert_days`, `stop_selling_before`, `tax_label_1`, `tax_label_2`, `tax_number_1`, `tax_number_2`, `time_format`, `time_zone`, `transaction_edit_days`, `updated_at`) values (fifo, ?, 2018-01-04 02:15:19, 2, before, m/d/Y, 25.00, 10.00, ?, ?, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"stock_transfers\",\"stock_adjustment\",\"expenses\",\"account\"], add_expiry, 1, 1, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Awesome Shop, keep_selling, 1, 1.000, ?, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, ?, ?, includes, AS, 2018-01-01, 30, 0, GSTIN, ?, 3412569900, ?, 24, America/Phoenix, 30, 2018-01-04 02:17:08), (fifo, ?, 2018-04-10 08:12:40, 2, before, m/d/Y, 25.00, ?, ?, 4, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"stock_transfers\",\"stock_adjustment\",\"expenses\",\"account\"], add_manufacturing, 1, 2, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Awesome Pharmacy, stop_selling, 4, 1.000, ?, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, ?, ?, includes, AP, 2018-04-10, 30, 0, VAT, ?, 3412569900, ?, 24, America/Chicago, 30, 2018-04-10 10:21:38), (fifo, {\"enable_product_warranty\":\"1\",\"default_datatable_page_entries\":\"25\"}, 2018-04-10 10:46:15, 2, before, m/d/Y, 25.00, ?, ?, 5, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"stock_transfers\",\"stock_adjustment\",\"expenses\",\"account\",\"subscription\"], add_expiry, 1, 3, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Ultimate Electronics, keep_selling, 5, 1.000, ?, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, ?, ?, includes, AE, 2018-04-10, 30, 0, GST, ?, 12548555003, ?, 24, America/Chicago, 30, 2018-04-10 11:53:35), (fifo, ?, 2018-04-10 12:20:42, 124, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"expenses\",\"account\",\"service_staff\"], add_expiry, 1, 4, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Awesome Services, keep_selling, 6, 1.000, ?, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, {\"repair_tc_condition\":\"<p><strong>30- Day Service Warranty :<\\/strong> If your device encounters the same issue within 30 days of the repair, we will fix the issue at our own cost with no further question asked. You have your peace of mind.&nbsp;<\\/p>\\r\\n<p><strong>Service Disclaimers :<\\/strong> Please make sure that you collect your item within two months of servic-ing, Otherwise, we will not be liable if your item gets lost or damaged.&nbsp;<\\/p>\\r\\n<p><strong>Terms &amp;Conditions:<\\/strong> Please also be aware that we can only service your gadget at your own risk. Even though we do our best in \\\"Awesome Services\\\" to make things better. However, in the worst-case scenario, your gadget may be damaged during repairs. We will not be liable if such things happen. Visit our website to know more our Policy.<\\/p>\",\"job_sheet_prefix\":\"JS\",\"problem_reported_by_customer\":\"No backup, Battery life mediocre, Slow boot and application launch, Too glossy screen, Touchpad requires improvement, Keyboard requires improvement, RAM needs to be expanded, Lacks SD card slot\",\"product_condition\":\"No physical damage, Screen fine, Screen scratches, body broken, Wet in water, colourful display, Great battery life, Excellent audio quality, Lacks SD card slot\",\"product_configuration\":\"2 Gb RAM, 2GB ROM, Cpu,  Core i3 Processor, Core i5 Processor, Core i7 Processor, 16GB RAM, 4 GB RAM, 1TB HDD, 520 SSD, USB Type-C port, USB Type-A prot, 1080p IPS Display\",\"default_status\":\"3\"}, ?, includes, AS, 2018-03-10, 30, 0, GST, ?, 3412569900, ?, 24, America/Chicago, 30, 2018-04-10 12:23:40), (fifo, ?, 2018-07-13 16:42:11, 2, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"stock_transfers\",\"stock_adjustment\",\"expenses\",\"tables\",\"modifiers\",\"service_staff\",\"kitchen\",\"types_of_service\",\"booking\"], add_expiry, 1, 5, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Awesome Restaurant, keep_selling, 7, 1.000, {\"disable_pay_checkout\":0,\"disable_draft\":0,\"disable_express_checkout\":0,\"hide_product_suggestion\":0,\"hide_recent_trans\":0,\"disable_discount\":0,\"disable_order_tax\":0}, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, ?, ?, includes, AR, 2018-07-12, 30, 0, IGST, SGST, 4578220005, 4593220009, 24, America/Chicago, 30, 2018-07-13 07:38:24), (fifo, ?, 2019-08-18 18:41:28, 124, before, m/d/Y, 25.00, ?, ?, ?, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, [\"purchases\",\"add_sale\",\"pos_sale\",\"stock_transfers\",\"stock_adjustment\",\"expenses\"], add_expiry, 1, 6, 1, {\"pos\":{\"express_checkout\":\"shift+e\",\"pay_n_ckeckout\":\"shift+p\",\"draft\":\"shift+d\",\"cancel\":\"shift+c\",\"edit_discount\":\"shift+i\",\"edit_order_tax\":\"shift+t\",\"add_payment_row\":\"shift+r\",\"finalize_payment\":\"shift+f\",\"recent_product_quantity\":\"f2\",\"add_new_product\":\"f4\"}}, ?, Manufacturers Demo, keep_selling, 12, 1.000, {\"disable_pay_checkout\":0,\"disable_draft\":0,\"disable_express_checkout\":0,\"hide_product_suggestion\":0,\"hide_recent_trans\":0,\"disable_discount\":0,\"disable_order_tax\":0,\"is_pos_subtotal_editable\":0}, ?, 0, {\"purchase\":\"PO\",\"stock_transfer\":\"ST\",\"stock_adjustment\":\"SA\",\"sell_return\":\"CN\",\"expense\":\"EP\",\"contacts\":\"CO\",\"purchase_payment\":\"PP\",\"sell_payment\":\"SP\",\"business_location\":\"BL\"}, ?, ?, includes, ?, 2019-08-18, 30, 0, ?, ?, ?, ?, 24, Asia/Kolkata, 30, 2019-08-18 18:43:22)) at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:760)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(498): Illuminate\\Database\\Connection->statement()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3272): Illuminate\\Database\\Connection->insert()
+#4 /home/lexx/Desktop/POS/database/seeders/DummyBusinessSeeder.php(59): Illuminate\\Database\\Query\\Builder->insert()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\DummyBusinessSeeder->run()
+#6 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(61): Illuminate\\Database\\Seeder->__invoke()
+#13 /home/lexx/Desktop/POS/database/seeders/DatabaseSeeder.php(16): Illuminate\\Database\\Seeder->call()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\DatabaseSeeder->run()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(81): Illuminate\\Database\\Seeder->__invoke()
+#22 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(80): Illuminate\\Database\\Eloquent\\Model::unguarded()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#28 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#29 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#30 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#31 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#32 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#33 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#34 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#35 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#36 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#37 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#38 {main}
+
+[previous exception] [object] (PDOException(code: 42S22): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'repair_settings' in 'field list' at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:539)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(539): PDO->prepare()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(753): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(498): Illuminate\\Database\\Connection->statement()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3272): Illuminate\\Database\\Connection->insert()
+#6 /home/lexx/Desktop/POS/database/seeders/DummyBusinessSeeder.php(59): Illuminate\\Database\\Query\\Builder->insert()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\DummyBusinessSeeder->run()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(61): Illuminate\\Database\\Seeder->__invoke()
+#15 /home/lexx/Desktop/POS/database/seeders/DatabaseSeeder.php(16): Illuminate\\Database\\Seeder->call()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\DatabaseSeeder->run()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#22 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(81): Illuminate\\Database\\Seeder->__invoke()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(80): Illuminate\\Database\\Eloquent\\Model::unguarded()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#27 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#28 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#29 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#30 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#31 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#32 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#33 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#34 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#35 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#36 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#37 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#38 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#39 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#40 {main}
+"} 
+[2024-07-18 18:05:45] local.ERROR: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'migrations' already exists (SQL: create table `migrations` (`id` int unsigned not null auto_increment primary key, `migration` varchar(191) not null, `batch` int not null) default character set utf8mb4 collate 'utf8mb4_unicode_ci') {"exception":"[object] (Illuminate\\Database\\QueryException(code: 42S01): SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'migrations' already exists (SQL: create table `migrations` (`id` int unsigned not null auto_increment primary key, `migration` varchar(191) not null, `batch` int not null) default character set utf8mb4 collate 'utf8mb4_unicode_ci') at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:760)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php(109): Illuminate\\Database\\Connection->statement()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(439): Illuminate\\Database\\Schema\\Blueprint->build()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(281): Illuminate\\Database\\Schema\\Builder->build()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php(150): Illuminate\\Database\\Schema\\Builder->create()
+#6 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/InstallCommand.php(54): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->createRepository()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\InstallCommand->handle()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#13 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#15 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#16 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#17 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#20 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#21 {main}
+
+[previous exception] [object] (PDOException(code: 42S01): SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'migrations' already exists at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:545)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(545): PDOStatement->execute()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(753): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php(109): Illuminate\\Database\\Connection->statement()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(439): Illuminate\\Database\\Schema\\Blueprint->build()
+#6 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php(281): Illuminate\\Database\\Schema\\Builder->build()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php(150): Illuminate\\Database\\Schema\\Builder->create()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Migrations/InstallCommand.php(54): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->createRepository()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\InstallCommand->handle()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#15 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#17 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#18 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#19 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#22 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#23 {main}
+"} 
+[2024-07-18 18:06:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:06:30] local.ERROR: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY' (SQL: insert into `currencies` (`code`, `country`, `created_at`, `currency`, `decimal_separator`, `id`, `symbol`, `thousand_separator`, `updated_at`) values (ALL, Albania, ?, Leke, ., 1, Lek, ,, ?), (USD, America, ?, Dollars, ., 2, $, ,, ?), (AF, Afghanistan, ?, Afghanis, ., 3, ؋, ,, ?), (ARS, Argentina, ?, Pesos, ., 4, $, ,, ?), (AWG, Aruba, ?, Guilders, ., 5, ƒ, ,, ?), (AUD, Australia, ?, Dollars, ., 6, $, ,, ?), (AZ, Azerbaijan, ?, New Manats, ., 7, ман, ,, ?), (BSD, Bahamas, ?, Dollars, ., 8, $, ,, ?), (BBD, Barbados, ?, Dollars, ., 9, $, ,, ?), (BYR, Belarus, ?, Rubles, ., 10, p., ,, ?), (EUR, Belgium, ?, Euro, ., 11, €, ,, ?), (BZD, Beliz, ?, Dollars, ., 12, BZ$, ,, ?), (BMD, Bermuda, ?, Dollars, ., 13, $, ,, ?), (BOB, Bolivia, ?, Bolivianos, ., 14, $b, ,, ?), (BAM, Bosnia and Herzegovina, ?, Convertible Marka, ., 15, KM, ,, ?), (BWP, Botswana, ?, Pula's, ., 16, P, ,, ?), (BG, Bulgaria, ?, Leva, ., 17, лв, ,, ?), (BRL, Brazil, ?, Reais, ., 18, R$, ,, ?), (GBP, Britain [United Kingdom], ?, Pounds, ., 19, £, ,, ?), (BND, Brunei Darussalam, ?, Dollars, ., 20, $, ,, ?), (KHR, Cambodia, ?, Riels, ., 21, ៛, ,, ?), (CAD, Canada, ?, Dollars, ., 22, $, ,, ?), (KYD, Cayman Islands, ?, Dollars, ., 23, $, ,, ?), (CLP, Chile, ?, Pesos, ., 24, $, ,, ?), (CNY, China, ?, Yuan Renminbi, ., 25, ¥, ,, ?), (COP, Colombia, ?, Pesos, ., 26, $, ,, ?), (CRC, Costa Rica, ?, Colón, ., 27, ₡, ,, ?), (HRK, Croatia, ?, Kuna, ., 28, kn, ,, ?), (CUP, Cuba, ?, Pesos, ., 29, ₱, ,, ?), (EUR, Cyprus, ?, Euro, ,, 30, €, ., ?), (CZK, Czech Republic, ?, Koruny, ., 31, Kč, ,, ?), (DKK, Denmark, ?, Kroner, ., 32, kr, ,, ?), (DOP , Dominican Republic, ?, Pesos, ., 33, RD$, ,, ?), (XCD, East Caribbean, ?, Dollars, ., 34, $, ,, ?), (EGP, Egypt, ?, Pounds, ., 35, £, ,, ?), (SVC, El Salvador, ?, Colones, ., 36, $, ,, ?), (GBP, England [United Kingdom], ?, Pounds, ., 37, £, ,, ?), (EUR, Euro, ?, Euro, ,, 38, €, ., ?), (FKP, Falkland Islands, ?, Pounds, ., 39, £, ,, ?), (FJD, Fiji, ?, Dollars, ., 40, $, ,, ?), (EUR, France, ?, Euro, ,, 41, €, ., ?), (GHS, Ghana, ?, Cedis, ., 42, ¢, ,, ?), (GIP, Gibraltar, ?, Pounds, ., 43, £, ,, ?), (EUR, Greece, ?, Euro, ,, 44, €, ., ?), (GTQ, Guatemala, ?, Quetzales, ., 45, Q, ,, ?), (GGP, Guernsey, ?, Pounds, ., 46, £, ,, ?), (GYD, Guyana, ?, Dollars, ., 47, $, ,, ?), (EUR, Holland [Netherlands], ?, Euro, ,, 48, €, ., ?), (HNL, Honduras, ?, Lempiras, ., 49, L, ,, ?), (HKD, Hong Kong, ?, Dollars, ., 50, $, ,, ?), (HUF, Hungary, ?, Forint, ., 51, Ft, ,, ?), (ISK, Iceland, ?, Kronur, ., 52, kr, ,, ?), (INR, India, ?, Rupees, ., 53, ₹, ,, ?), (IDR, Indonesia, ?, Rupiahs, ., 54, Rp, ,, ?), (IRR, Iran, ?, Rials, ., 55, ﷼, ,, ?), (EUR, Ireland, ?, Euro, ,, 56, €, ., ?), (IMP, Isle of Man, ?, Pounds, ., 57, £, ,, ?), (ILS, Israel, ?, New Shekels, ., 58, ₪, ,, ?), (EUR, Italy, ?, Euro, ,, 59, €, ., ?), (JMD, Jamaica, ?, Dollars, ., 60, J$, ,, ?), (JPY, Japan, ?, Yen, ., 61, ¥, ,, ?), (JEP, Jersey, ?, Pounds, ., 62, £, ,, ?), (KZT, Kazakhstan, ?, Tenge, ., 63, лв, ,, ?), (KPW, Korea [North], ?, Won, ., 64, ₩, ,, ?), (KRW, Korea [South], ?, Won, ., 65, ₩, ,, ?), (KGS, Kyrgyzstan, ?, Soms, ., 66, лв, ,, ?), (LAK, Laos, ?, Kips, ., 67, ₭, ,, ?), (LVL, Latvia, ?, Lati, ., 68, Ls, ,, ?), (LBP, Lebanon, ?, Pounds, ., 69, £, ,, ?), (LRD, Liberia, ?, Dollars, ., 70, $, ,, ?), (CHF, Liechtenstein, ?, Switzerland Francs, ., 71, CHF, ,, ?), (LTL, Lithuania, ?, Litai, ., 72, Lt, ,, ?), (EUR, Luxembourg, ?, Euro, ,, 73, €, ., ?), (MKD, Macedonia, ?, Denars, ., 74, ден, ,, ?), (MYR, Malaysia, ?, Ringgits, ., 75, RM, ,, ?), (EUR, Malta, ?, Euro, ,, 76, €, ., ?), (MUR, Mauritius, ?, Rupees, ., 77, ₨, ,, ?), (MXN, Mexico, ?, Pesos, ., 78, $, ,, ?), (MNT, Mongolia, ?, Tugriks, ., 79, ₮, ,, ?), (MZ, Mozambique, ?, Meticais, ., 80, MT, ,, ?), (NAD, Namibia, ?, Dollars, ., 81, $, ,, ?), (NPR, Nepal, ?, Rupees, ., 82, ₨, ,, ?), (ANG, Netherlands Antilles, ?, Guilders, ., 83, ƒ, ,, ?), (EUR, Netherlands, ?, Euro, ,, 84, €, ., ?), (NZD, New Zealand, ?, Dollars, ., 85, $, ,, ?), (NIO, Nicaragua, ?, Cordobas, ., 86, C$, ,, ?), (NGN, Nigeria, ?, Nairas, ., 87, ₦, ,, ?), (KPW, North Korea, ?, Won, ., 88, ₩, ,, ?), (NOK, Norway, ?, Krone, ., 89, kr, ,, ?), (OMR, Oman, ?, Rials, ., 90, ﷼, ,, ?), (PKR, Pakistan, ?, Rupees, ., 91, ₨, ,, ?), (PAB, Panama, ?, Balboa, ., 92, B/., ,, ?), (PYG, Paraguay, ?, Guarani, ., 93, Gs, ,, ?), (PE, Peru, ?, Nuevos Soles, ., 94, S/., ,, ?), (PHP, Philippines, ?, Pesos, ., 95, Php, ,, ?), (PL, Poland, ?, Zlotych, ., 96, zł, ,, ?), (QAR, Qatar, ?, Rials, ., 97, ﷼, ,, ?), (RO, Romania, ?, New Lei, ., 98, lei, ,, ?), (RUB, Russia, ?, Rubles, ., 99, руб, ,, ?), (SHP, Saint Helena, ?, Pounds, ., 100, £, ,, ?), (SAR, Saudi Arabia, ?, Riyals, ., 101, ﷼, ,, ?), (RSD, Serbia, ?, Dinars, ., 102, Дин., ,, ?), (SCR, Seychelles, ?, Rupees, ., 103, ₨, ,, ?), (SGD, Singapore, ?, Dollars, ., 104, $, ,, ?), (EUR, Slovenia, ?, Euro, ,, 105, €, ., ?), (SBD, Solomon Islands, ?, Dollars, ., 106, $, ,, ?), (SOS, Somalia, ?, Shillings, ., 107, S, ,, ?), (ZAR, South Africa, ?, Rand, ., 108, R, ,, ?), (KRW, South Korea, ?, Won, ., 109, ₩, ,, ?), (EUR, Spain, ?, Euro, ,, 110, €, ., ?), (LKR, Sri Lanka, ?, Rupees, ., 111, ₨, ,, ?), (SEK, Sweden, ?, Kronor, ., 112, kr, ,, ?), (CHF, Switzerland, ?, Francs, ., 113, CHF, ,, ?), (SRD, Suriname, ?, Dollars, ., 114, $, ,, ?), (SYP, Syria, ?, Pounds, ., 115, £, ,, ?), (TWD, Taiwan, ?, New Dollars, ., 116, NT$, ,, ?), (THB, Thailand, ?, Baht, ., 117, ฿, ,, ?), (TTD, Trinidad and Tobago, ?, Dollars, ., 118, TT$, ,, ?), (TRY, Turkey, ?, Lira, ., 119, TL, ,, ?), (TRL, Turkey, ?, Liras, ., 120, £, ,, ?), (TVD, Tuvalu, ?, Dollars, ., 121, $, ,, ?), (UAH, Ukraine, ?, Hryvnia, ., 122, ₴, ,, ?), (GBP, United Kingdom, ?, Pounds, ., 123, £, ,, ?), (USD, United States of America, ?, Dollars, ., 124, $, ,, ?), (UYU, Uruguay, ?, Pesos, ., 125, $U, ,, ?), (UZS, Uzbekistan, ?, Sums, ., 126, лв, ,, ?), (EUR, Vatican City, ?, Euro, ,, 127, €, ., ?), (VEF, Venezuela, ?, Bolivares Fuertes, ., 128, Bs, ,, ?), (VND, Vietnam, ?, Dong, ., 129, ₫, ,, ?), (YER, Yemen, ?, Rials, ., 130, ﷼, ,, ?), (ZWD, Zimbabwe, ?, Zimbabwe Dollars, ., 131, Z$, ,, ?), (IQD, Iraq, ?, Iraqi dinar, ., 132, د.ع, ,, ?), (KES, Kenya, ?, Kenyan shilling, ., 133, KSh, ,, ?), (BDT, Bangladesh, ?, Taka, ., 134, ৳, ,, ?)) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY' (SQL: insert into `currencies` (`code`, `country`, `created_at`, `currency`, `decimal_separator`, `id`, `symbol`, `thousand_separator`, `updated_at`) values (ALL, Albania, ?, Leke, ., 1, Lek, ,, ?), (USD, America, ?, Dollars, ., 2, $, ,, ?), (AF, Afghanistan, ?, Afghanis, ., 3, ؋, ,, ?), (ARS, Argentina, ?, Pesos, ., 4, $, ,, ?), (AWG, Aruba, ?, Guilders, ., 5, ƒ, ,, ?), (AUD, Australia, ?, Dollars, ., 6, $, ,, ?), (AZ, Azerbaijan, ?, New Manats, ., 7, ман, ,, ?), (BSD, Bahamas, ?, Dollars, ., 8, $, ,, ?), (BBD, Barbados, ?, Dollars, ., 9, $, ,, ?), (BYR, Belarus, ?, Rubles, ., 10, p., ,, ?), (EUR, Belgium, ?, Euro, ., 11, €, ,, ?), (BZD, Beliz, ?, Dollars, ., 12, BZ$, ,, ?), (BMD, Bermuda, ?, Dollars, ., 13, $, ,, ?), (BOB, Bolivia, ?, Bolivianos, ., 14, $b, ,, ?), (BAM, Bosnia and Herzegovina, ?, Convertible Marka, ., 15, KM, ,, ?), (BWP, Botswana, ?, Pula's, ., 16, P, ,, ?), (BG, Bulgaria, ?, Leva, ., 17, лв, ,, ?), (BRL, Brazil, ?, Reais, ., 18, R$, ,, ?), (GBP, Britain [United Kingdom], ?, Pounds, ., 19, £, ,, ?), (BND, Brunei Darussalam, ?, Dollars, ., 20, $, ,, ?), (KHR, Cambodia, ?, Riels, ., 21, ៛, ,, ?), (CAD, Canada, ?, Dollars, ., 22, $, ,, ?), (KYD, Cayman Islands, ?, Dollars, ., 23, $, ,, ?), (CLP, Chile, ?, Pesos, ., 24, $, ,, ?), (CNY, China, ?, Yuan Renminbi, ., 25, ¥, ,, ?), (COP, Colombia, ?, Pesos, ., 26, $, ,, ?), (CRC, Costa Rica, ?, Colón, ., 27, ₡, ,, ?), (HRK, Croatia, ?, Kuna, ., 28, kn, ,, ?), (CUP, Cuba, ?, Pesos, ., 29, ₱, ,, ?), (EUR, Cyprus, ?, Euro, ,, 30, €, ., ?), (CZK, Czech Republic, ?, Koruny, ., 31, Kč, ,, ?), (DKK, Denmark, ?, Kroner, ., 32, kr, ,, ?), (DOP , Dominican Republic, ?, Pesos, ., 33, RD$, ,, ?), (XCD, East Caribbean, ?, Dollars, ., 34, $, ,, ?), (EGP, Egypt, ?, Pounds, ., 35, £, ,, ?), (SVC, El Salvador, ?, Colones, ., 36, $, ,, ?), (GBP, England [United Kingdom], ?, Pounds, ., 37, £, ,, ?), (EUR, Euro, ?, Euro, ,, 38, €, ., ?), (FKP, Falkland Islands, ?, Pounds, ., 39, £, ,, ?), (FJD, Fiji, ?, Dollars, ., 40, $, ,, ?), (EUR, France, ?, Euro, ,, 41, €, ., ?), (GHS, Ghana, ?, Cedis, ., 42, ¢, ,, ?), (GIP, Gibraltar, ?, Pounds, ., 43, £, ,, ?), (EUR, Greece, ?, Euro, ,, 44, €, ., ?), (GTQ, Guatemala, ?, Quetzales, ., 45, Q, ,, ?), (GGP, Guernsey, ?, Pounds, ., 46, £, ,, ?), (GYD, Guyana, ?, Dollars, ., 47, $, ,, ?), (EUR, Holland [Netherlands], ?, Euro, ,, 48, €, ., ?), (HNL, Honduras, ?, Lempiras, ., 49, L, ,, ?), (HKD, Hong Kong, ?, Dollars, ., 50, $, ,, ?), (HUF, Hungary, ?, Forint, ., 51, Ft, ,, ?), (ISK, Iceland, ?, Kronur, ., 52, kr, ,, ?), (INR, India, ?, Rupees, ., 53, ₹, ,, ?), (IDR, Indonesia, ?, Rupiahs, ., 54, Rp, ,, ?), (IRR, Iran, ?, Rials, ., 55, ﷼, ,, ?), (EUR, Ireland, ?, Euro, ,, 56, €, ., ?), (IMP, Isle of Man, ?, Pounds, ., 57, £, ,, ?), (ILS, Israel, ?, New Shekels, ., 58, ₪, ,, ?), (EUR, Italy, ?, Euro, ,, 59, €, ., ?), (JMD, Jamaica, ?, Dollars, ., 60, J$, ,, ?), (JPY, Japan, ?, Yen, ., 61, ¥, ,, ?), (JEP, Jersey, ?, Pounds, ., 62, £, ,, ?), (KZT, Kazakhstan, ?, Tenge, ., 63, лв, ,, ?), (KPW, Korea [North], ?, Won, ., 64, ₩, ,, ?), (KRW, Korea [South], ?, Won, ., 65, ₩, ,, ?), (KGS, Kyrgyzstan, ?, Soms, ., 66, лв, ,, ?), (LAK, Laos, ?, Kips, ., 67, ₭, ,, ?), (LVL, Latvia, ?, Lati, ., 68, Ls, ,, ?), (LBP, Lebanon, ?, Pounds, ., 69, £, ,, ?), (LRD, Liberia, ?, Dollars, ., 70, $, ,, ?), (CHF, Liechtenstein, ?, Switzerland Francs, ., 71, CHF, ,, ?), (LTL, Lithuania, ?, Litai, ., 72, Lt, ,, ?), (EUR, Luxembourg, ?, Euro, ,, 73, €, ., ?), (MKD, Macedonia, ?, Denars, ., 74, ден, ,, ?), (MYR, Malaysia, ?, Ringgits, ., 75, RM, ,, ?), (EUR, Malta, ?, Euro, ,, 76, €, ., ?), (MUR, Mauritius, ?, Rupees, ., 77, ₨, ,, ?), (MXN, Mexico, ?, Pesos, ., 78, $, ,, ?), (MNT, Mongolia, ?, Tugriks, ., 79, ₮, ,, ?), (MZ, Mozambique, ?, Meticais, ., 80, MT, ,, ?), (NAD, Namibia, ?, Dollars, ., 81, $, ,, ?), (NPR, Nepal, ?, Rupees, ., 82, ₨, ,, ?), (ANG, Netherlands Antilles, ?, Guilders, ., 83, ƒ, ,, ?), (EUR, Netherlands, ?, Euro, ,, 84, €, ., ?), (NZD, New Zealand, ?, Dollars, ., 85, $, ,, ?), (NIO, Nicaragua, ?, Cordobas, ., 86, C$, ,, ?), (NGN, Nigeria, ?, Nairas, ., 87, ₦, ,, ?), (KPW, North Korea, ?, Won, ., 88, ₩, ,, ?), (NOK, Norway, ?, Krone, ., 89, kr, ,, ?), (OMR, Oman, ?, Rials, ., 90, ﷼, ,, ?), (PKR, Pakistan, ?, Rupees, ., 91, ₨, ,, ?), (PAB, Panama, ?, Balboa, ., 92, B/., ,, ?), (PYG, Paraguay, ?, Guarani, ., 93, Gs, ,, ?), (PE, Peru, ?, Nuevos Soles, ., 94, S/., ,, ?), (PHP, Philippines, ?, Pesos, ., 95, Php, ,, ?), (PL, Poland, ?, Zlotych, ., 96, zł, ,, ?), (QAR, Qatar, ?, Rials, ., 97, ﷼, ,, ?), (RO, Romania, ?, New Lei, ., 98, lei, ,, ?), (RUB, Russia, ?, Rubles, ., 99, руб, ,, ?), (SHP, Saint Helena, ?, Pounds, ., 100, £, ,, ?), (SAR, Saudi Arabia, ?, Riyals, ., 101, ﷼, ,, ?), (RSD, Serbia, ?, Dinars, ., 102, Дин., ,, ?), (SCR, Seychelles, ?, Rupees, ., 103, ₨, ,, ?), (SGD, Singapore, ?, Dollars, ., 104, $, ,, ?), (EUR, Slovenia, ?, Euro, ,, 105, €, ., ?), (SBD, Solomon Islands, ?, Dollars, ., 106, $, ,, ?), (SOS, Somalia, ?, Shillings, ., 107, S, ,, ?), (ZAR, South Africa, ?, Rand, ., 108, R, ,, ?), (KRW, South Korea, ?, Won, ., 109, ₩, ,, ?), (EUR, Spain, ?, Euro, ,, 110, €, ., ?), (LKR, Sri Lanka, ?, Rupees, ., 111, ₨, ,, ?), (SEK, Sweden, ?, Kronor, ., 112, kr, ,, ?), (CHF, Switzerland, ?, Francs, ., 113, CHF, ,, ?), (SRD, Suriname, ?, Dollars, ., 114, $, ,, ?), (SYP, Syria, ?, Pounds, ., 115, £, ,, ?), (TWD, Taiwan, ?, New Dollars, ., 116, NT$, ,, ?), (THB, Thailand, ?, Baht, ., 117, ฿, ,, ?), (TTD, Trinidad and Tobago, ?, Dollars, ., 118, TT$, ,, ?), (TRY, Turkey, ?, Lira, ., 119, TL, ,, ?), (TRL, Turkey, ?, Liras, ., 120, £, ,, ?), (TVD, Tuvalu, ?, Dollars, ., 121, $, ,, ?), (UAH, Ukraine, ?, Hryvnia, ., 122, ₴, ,, ?), (GBP, United Kingdom, ?, Pounds, ., 123, £, ,, ?), (USD, United States of America, ?, Dollars, ., 124, $, ,, ?), (UYU, Uruguay, ?, Pesos, ., 125, $U, ,, ?), (UZS, Uzbekistan, ?, Sums, ., 126, лв, ,, ?), (EUR, Vatican City, ?, Euro, ,, 127, €, ., ?), (VEF, Venezuela, ?, Bolivares Fuertes, ., 128, Bs, ,, ?), (VND, Vietnam, ?, Dong, ., 129, ₫, ,, ?), (YER, Yemen, ?, Rials, ., 130, ﷼, ,, ?), (ZWD, Zimbabwe, ?, Zimbabwe Dollars, ., 131, Z$, ,, ?), (IQD, Iraq, ?, Iraqi dinar, ., 132, د.ع, ,, ?), (KES, Kenya, ?, Kenyan shilling, ., 133, KSh, ,, ?), (BDT, Bangladesh, ?, Taka, ., 134, ৳, ,, ?)) at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:760)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(498): Illuminate\\Database\\Connection->statement()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3272): Illuminate\\Database\\Connection->insert()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1869): Illuminate\\Database\\Query\\Builder->insert()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->__call()
+#6 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2330): Illuminate\\Database\\Eloquent\\Model->forwardCallTo()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2342): Illuminate\\Database\\Eloquent\\Model->__call()
+#8 /home/lexx/Desktop/POS/database/seeders/CurrenciesTableSeeder.php(287): Illuminate\\Database\\Eloquent\\Model::__callStatic()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\CurrenciesTableSeeder->run()
+#10 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(81): Illuminate\\Database\\Seeder->__invoke()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(80): Illuminate\\Database\\Eloquent\\Model::unguarded()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#22 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#25 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#27 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#28 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#29 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#30 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#31 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#32 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#33 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1' for key 'PRIMARY' at /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php:545)
+[stacktrace]
+#0 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(545): PDOStatement->execute()
+#1 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(753): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}()
+#2 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(720): Illuminate\\Database\\Connection->runQueryCallback()
+#3 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(534): Illuminate\\Database\\Connection->run()
+#4 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Connection.php(498): Illuminate\\Database\\Connection->statement()
+#5 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php(3272): Illuminate\\Database\\Connection->insert()
+#6 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php(1869): Illuminate\\Database\\Query\\Builder->insert()
+#7 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Support/Traits/ForwardsCalls.php(23): Illuminate\\Database\\Eloquent\\Builder->__call()
+#8 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2330): Illuminate\\Database\\Eloquent\\Model->forwardCallTo()
+#9 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(2342): Illuminate\\Database\\Eloquent\\Model->__call()
+#10 /home/lexx/Desktop/POS/database/seeders/CurrenciesTableSeeder.php(287): Illuminate\\Database\\Eloquent\\Model::__callStatic()
+#11 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Database\\Seeders\\CurrenciesTableSeeder->run()
+#12 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#13 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#14 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#15 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#16 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(184): Illuminate\\Container\\Container->call()
+#17 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Seeder.php(193): Illuminate\\Database\\Seeder->Illuminate\\Database\\{closure}()
+#18 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(81): Illuminate\\Database\\Seeder->__invoke()
+#19 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/GuardsAttributes.php(155): Illuminate\\Database\\Console\\Seeds\\SeedCommand->Illuminate\\Database\\Console\\Seeds\\{closure}()
+#20 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Database/Console/Seeds/SeedCommand.php(80): Illuminate\\Database\\Eloquent\\Model::unguarded()
+#21 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(36): Illuminate\\Database\\Console\\Seeds\\SeedCommand->handle()
+#22 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Util.php(41): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#23 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure()
+#24 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#25 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Container/Container.php(661): Illuminate\\Container\\BoundMethod::call()
+#26 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(183): Illuminate\\Container\\Container->call()
+#27 /home/lexx/Desktop/POS/vendor/symfony/console/Command/Command.php(326): Illuminate\\Console\\Command->execute()
+#28 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Command.php(152): Symfony\\Component\\Console\\Command\\Command->run()
+#29 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(1078): Illuminate\\Console\\Command->run()
+#30 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#31 /home/lexx/Desktop/POS/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#32 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Console/Application.php(102): Symfony\\Component\\Console\\Application->run()
+#33 /home/lexx/Desktop/POS/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(155): Illuminate\\Console\\Application->run()
+#34 /home/lexx/Desktop/POS/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#35 {main}
+"} 
+[2024-07-18 18:07:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:08:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 15:38:12] local.INFO: User ID: 1  
+[2024-07-18 15:38:12] local.INFO: User Permissions []  
+[2024-07-18 15:38:12] local.INFO: Business ID: 1  
+[2024-07-18 15:38:13] local.INFO: User ID: 1  
+[2024-07-18 15:38:13] local.INFO: User Permissions []  
+[2024-07-18 15:38:13] local.INFO: Business ID: 1  
+[2024-07-18 15:38:22] local.INFO: User ID: 1  
+[2024-07-18 15:38:22] local.INFO: User Permissions []  
+[2024-07-18 15:38:22] local.INFO: Business ID: 1  
+[2024-07-18 15:38:22] local.INFO: User ID: 1  
+[2024-07-18 15:38:22] local.INFO: User Permissions []  
+[2024-07-18 15:38:22] local.INFO: Business ID: 1  
+[2024-07-18 18:09:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:10:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:11:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2024-07-18 18:12:03] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
 Stack trace:
 #0 Command line code(1): ReflectionClass->__construct()
 #1 [internal function]: {closure}()

@@ -74,13 +74,19 @@ class SellController extends Controller
      */
     public function index()
     {
+        $user = auth()->user();
+        \Log::info("User ID: " . $user->id);
+        \Log::info("User Permissions " . json_encode($user->getAllPermissions()->pluck('name')));
+
         $is_admin = $this->businessUtil->is_admin(auth()->user());
 
         if (! $is_admin && ! auth()->user()->hasAnyPermission(['sell.view', 'sell.create', 'direct_sell.access', 'direct_sell.view', 'view_own_sell_only', 'view_commission_agent_sell', 'access_shipping', 'access_own_shipping', 'access_commission_agent_shipping', 'so.view_all', 'so.view_own'])) {
+            \Log::error("User does not have the required permissions.");
             abort(403, 'Unauthorized action.');
         }
 
         $business_id = request()->session()->get('user.business_id');
+        \Log::info("Business ID: " . $business_id);
         $is_woocommerce = $this->moduleUtil->isModuleInstalled('Woocommerce');
         $is_crm = $this->moduleUtil->isModuleInstalled('Crm');
         $is_tables_enabled = $this->transactionUtil->isModuleEnabled('tables');
