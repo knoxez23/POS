@@ -238,12 +238,12 @@
 		@endif --}}
 
                         <!-- Total Paid-->
-                        @if (!empty($receipt_details->total_paid))
+                        {{-- @if (!empty($receipt_details->total_paid))
                             <div class="text-right font-16 " style="font-size: 16px; text-transform: capitalize;">
                                 <span class="pull-left">{!! $receipt_details->total_paid_label !!}</span>
                                 {{ $receipt_details->total_paid }}
                             </div>
-                        @endif
+                        @endif --}}
                         <!-- Date-->
                         @if (!empty($receipt_details->date_label))
                             <div class="text-right font-16 " style="font-size: 16px;">
