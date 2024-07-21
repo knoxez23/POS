@@ -11,3 +11,4 @@ npm-debug.log
 .scribe
 /public/docs
 /public/js/skins/
+/storage/logs
